@@ -17,7 +17,6 @@ data/
   raw/             individual responses — not included (see data/README.md)
   derived/         public derived data: mean squares and panel means
 outputs/
-  figures/         Figures 1–5 (SVG, PNG; Figure 5 also as editable PowerPoint)
   out_30_public_reproduction.json   main numbers reproduced from the public derived data
 run_all.sh       runs every step in order
 ```
